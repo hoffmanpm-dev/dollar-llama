@@ -425,6 +425,67 @@ a:hover { color: var(--green-light); }
 
 .back-link:hover { text-decoration: underline; }
 
+/* ---- SHARE ROW ---- */
+.share-row {
+  margin-bottom: 24px;
+}
+
+.share-row .share-label {
+  font-family: var(--font-heading);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--gray-light);
+  margin-bottom: 10px;
+}
+
+.share-links {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.share-links a,
+.share-links button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--white);
+  border: 1px solid var(--border);
+  color: var(--gray);
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.2s;
+  padding: 0;
+  font-size: 0;
+}
+
+.share-links a:hover,
+.share-links button:hover {
+  color: var(--charcoal);
+  border-color: var(--charcoal);
+  background: var(--cream-dark);
+}
+
+.share-links svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
+
+.share-links .copy-confirm {
+  font-family: var(--font-heading);
+  font-size: 12px;
+  color: var(--green);
+  font-weight: 600;
+  display: none;
+}
+
 /* ---- SUBSCRIBE SECTION ---- */
 .subscribe-section {
   background: var(--charcoal);
