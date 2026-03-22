@@ -108,6 +108,16 @@ nav {
   letter-spacing: 2px;
 }
 
+.hero-credential {
+  font-family: var(--font-heading);
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #8aba6a;
+  margin-bottom: 20px;
+}
+
 .hero .tagline {
   font-family: var(--font-body);
   font-size: 20px;
@@ -622,6 +632,54 @@ a:hover { color: var(--green-light); }
 
 .contact-form button:hover {
   background: var(--green-light);
+}
+
+/* ---- RELATED POSTS ---- */
+.related-posts {
+  margin-top: 48px;
+  padding-top: 32px;
+  border-top: 1px solid var(--border);
+}
+
+.related-posts h3 {
+  font-family: var(--font-heading);
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--gray-light);
+  margin-bottom: 20px;
+}
+
+.related-posts ul {
+  list-style: none;
+}
+
+.related-posts li {
+  margin-bottom: 16px;
+}
+
+.related-posts li a {
+  font-family: var(--font-heading);
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--charcoal);
+  text-decoration: none;
+  line-height: 1.4;
+}
+
+.related-posts li a:hover {
+  color: var(--green);
+}
+
+.related-posts .related-category {
+  font-family: var(--font-heading);
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--green);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 2px;
 }
 
 /* ---- RESPONSIVE ---- */
