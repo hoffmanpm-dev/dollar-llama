@@ -634,6 +634,35 @@ a:hover { color: var(--green-light); }
   background: var(--green-light);
 }
 
+/* ---- POST IMAGES ---- */
+.post-content .post-graphic {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 32px 0;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.post-content .post-graphic-wide {
+  display: block;
+  width: calc(100% + 80px);
+  max-width: calc(100% + 80px);
+  margin: 36px -40px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.post-content .graphic-caption {
+  display: block;
+  font-size: 13px;
+  color: var(--gray-light);
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 28px;
+  font-family: var(--font-heading);
+}
+
 /* ---- RELATED POSTS ---- */
 .related-posts {
   margin-top: 48px;
