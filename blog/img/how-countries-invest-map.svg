@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 320" font-family="Arial, Helvetica, sans-serif">
+  <rect width="780" height="320" fill="#FAF8F3"/>
+
+  <!-- Title -->
+  <text x="390" y="30" text-anchor="middle" font-size="13" font-weight="bold" fill="#2D5016" letter-spacing="2.5">HOW POLICY SHAPES PORTFOLIOS</text>
+  <line x1="200" y1="40" x2="580" y2="40" stroke="#E0DDD5" stroke-width="0.8"/>
+
+  <!-- Card 1: United States -->
+  <rect x="20" y="60" width="235" height="240" rx="8" fill="white" stroke="#E0DDD5" stroke-width="1"/>
+  <rect x="20" y="60" width="235" height="46" rx="8" fill="#2D5016"/>
+  <rect x="20" y="86" width="235" height="20" fill="#2D5016"/>
+  <text x="137" y="88" text-anchor="middle" font-size="14" font-weight="bold" fill="white">UNITED STATES</text>
+
+  <text x="36" y="128" font-size="10" fill="#999999" letter-spacing="1">HISTORICAL DRIVER</text>
+  <text x="36" y="146" font-size="13" fill="#333333">401(k) shifts investment risk</text>
+  <text x="36" y="163" font-size="13" fill="#333333">from employers to individuals</text>
+
+  <line x1="36" y1="178" x2="239" y2="178" stroke="#E0DDD5" stroke-width="0.8"/>
+
+  <text x="36" y="196" font-size="10" fill="#999999" letter-spacing="1">DEFAULT BEHAVIOR</text>
+  <text x="36" y="214" font-size="13" fill="#333333">Equity culture becomes personal;</text>
+  <text x="36" y="231" font-size="13" fill="#333333">~75% domestic allocation</text>
+
+  <line x1="36" y1="246" x2="239" y2="246" stroke="#E0DDD5" stroke-width="0.8"/>
+
+  <text x="36" y="264" font-size="10" fill="#999999" letter-spacing="1">SHIFTING NOW</text>
+  <text x="36" y="282" font-size="13" fill="#2D5016" font-weight="bold">Industrial policy returning</text>
+
+  <!-- Card 2: Germany -->
+  <rect x="273" y="60" width="235" height="240" rx="8" fill="white" stroke="#E0DDD5" stroke-width="1"/>
+  <rect x="273" y="60" width="235" height="46" rx="8" fill="#2D5016"/>
+  <rect x="273" y="86" width="235" height="20" fill="#2D5016"/>
+  <text x="390" y="88" text-anchor="middle" font-size="14" font-weight="bold" fill="white">GERMANY</text>
+
+  <text x="289" y="128" font-size="10" fill="#999999" letter-spacing="1">HISTORICAL DRIVER</text>
+  <text x="289" y="146" font-size="13" fill="#333333">Post-war institutions rebuilt</text>
+  <text x="289" y="163" font-size="13" fill="#333333">around conservative saving</text>
+
+  <line x1="289" y1="178" x2="492" y2="178" stroke="#E0DDD5" stroke-width="0.8"/>
+
+  <text x="289" y="196" font-size="10" fill="#999999" letter-spacing="1">DEFAULT BEHAVIOR</text>
+  <text x="289" y="214" font-size="13" fill="#333333">Save in cash and bonds</text>
+  <text x="289" y="231" font-size="13" fill="#333333">Distrust of equities</text>
+
+  <line x1="289" y1="246" x2="492" y2="246" stroke="#E0DDD5" stroke-width="0.8"/>
+
+  <text x="289" y="264" font-size="10" fill="#999999" letter-spacing="1">SHIFTING NOW</text>
+  <text x="289" y="282" font-size="13" fill="#2D5016" font-weight="bold">Slowly embracing equities</text>
+
+  <!-- Card 3: China -->
+  <rect x="526" y="60" width="235" height="240" rx="8" fill="white" stroke="#E0DDD5" stroke-width="1"/>
+  <rect x="526" y="60" width="235" height="46" rx="8" fill="#2D5016"/>
+  <rect x="526" y="86" width="235" height="20" fill="#2D5016"/>
+  <text x="643" y="88" text-anchor="middle" font-size="14" font-weight="bold" fill="white">CHINA</text>
+
+  <text x="542" y="128" font-size="10" fill="#999999" letter-spacing="1">HISTORICAL DRIVER</text>
+  <text x="542" y="146" font-size="13" fill="#333333">Growth model built on land</text>
+  <text x="542" y="163" font-size="13" fill="#333333">sales and property development</text>
+
+  <line x1="542" y1="178" x2="745" y2="178" stroke="#E0DDD5" stroke-width="0.8"/>
+
+  <text x="542" y="196" font-size="10" fill="#999999" letter-spacing="1">DEFAULT BEHAVIOR</text>
+  <text x="542" y="214" font-size="13" fill="#333333">~70% of household wealth in</text>
+  <text x="542" y="231" font-size="13" fill="#333333">real estate; stocks seen as casino</text>
+
+  <line x1="542" y1="246" x2="745" y2="246" stroke="#E0DDD5" stroke-width="0.8"/>
+
+  <text x="542" y="264" font-size="10" fill="#999999" letter-spacing="1">SHIFTING NOW</text>
+  <text x="542" y="282" font-size="13" fill="#2D5016" font-weight="bold">Redirecting savings to equities</text>
+</svg>

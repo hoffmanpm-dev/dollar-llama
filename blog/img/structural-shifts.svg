@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 340" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <style>
+      .card-bg { fill: #FFFFFF; stroke: #E0DDD5; stroke-width: 1.2; rx: 8; }
+      .card-accent { stroke: #2D5016; stroke-width: 3; }
+      .card-title { font-size: 14px; font-weight: bold; fill: #2D5016; }
+      .card-old { font-size: 11.5px; fill: #999999; }
+      .card-arrow { font-size: 16px; fill: #2D5016; font-weight: bold; }
+      .card-new { font-size: 11.5px; fill: #333333; font-weight: bold; }
+      .card-icon { font-size: 28px; }
+      .section-title { font-size: 16px; font-weight: bold; fill: #2D5016; letter-spacing: 1.5px; }
+      .footer-text { font-size: 12px; fill: #666666; font-style: italic; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="740" height="340" fill="#FAF8F3" rx="0"/>
+
+  <!-- Title -->
+  <text x="370" y="32" text-anchor="middle" class="section-title">STRUCTURAL SHIFTS HAPPENING NOW</text>
+  <line x1="120" y1="42" x2="620" y2="42" stroke="#E0DDD5" stroke-width="1"/>
+
+  <!-- Card 1: Technology & Labor -->
+  <rect x="30" y="62" width="210" height="220" class="card-bg"/>
+  <line x1="30" y1="62" x2="30" y2="282" class="card-accent"/>
+  <text x="52" y="95" class="card-icon">&#x1F916;</text>
+  <text x="82" y="95" class="card-title">Technology &amp; Labor</text>
+  <line x1="50" y1="108" x2="220" y2="108" stroke="#E0DDD5" stroke-width="0.8"/>
+
+  <text x="50" y="132" class="card-old">THE OLD ASSUMPTION</text>
+  <text x="50" y="150" font-size="12" fill="#666666">Labor income drives</text>
+  <text x="50" y="166" font-size="12" fill="#666666">wealth accumulation</text>
+
+  <text x="50" y="192" class="card-arrow">&#x2193;</text>
+
+  <text x="50" y="214" class="card-new">THE SHIFT</text>
+  <text x="50" y="232" font-size="12" fill="#333333">AI substitutes for labor;</text>
+  <text x="50" y="248" font-size="12" fill="#333333">capital returns may decouple</text>
+  <text x="50" y="264" font-size="12" fill="#333333">from wage growth</text>
+
+  <!-- Card 2: Industrial Policy -->
+  <rect x="265" y="62" width="210" height="220" class="card-bg"/>
+  <line x1="265" y1="62" x2="265" y2="282" class="card-accent"/>
+  <text x="287" y="95" class="card-icon">&#x1F3ED;</text>
+  <text x="317" y="95" class="card-title">Industrial Policy</text>
+  <line x1="285" y1="108" x2="455" y2="108" stroke="#E0DDD5" stroke-width="0.8"/>
+
+  <text x="285" y="132" class="card-old">THE OLD ASSUMPTION</text>
+  <text x="285" y="150" font-size="12" fill="#666666">Open markets; government</text>
+  <text x="285" y="166" font-size="12" fill="#666666">stays out of capital allocation</text>
+
+  <text x="285" y="192" class="card-arrow">&#x2193;</text>
+
+  <text x="285" y="214" class="card-new">THE SHIFT</text>
+  <text x="285" y="232" font-size="12" fill="#333333">CHIPS Act, tariffs, reshoring;</text>
+  <text x="285" y="248" font-size="12" fill="#333333">government picking winners</text>
+  <text x="285" y="264" font-size="12" fill="#333333">changes the index itself</text>
+
+  <!-- Card 3: Capital Ownership -->
+  <rect x="500" y="62" width="210" height="220" class="card-bg"/>
+  <line x1="500" y1="62" x2="500" y2="282" class="card-accent"/>
+  <text x="522" y="95" class="card-icon">&#x1F4CA;</text>
+  <text x="552" y="95" class="card-title">Capital Ownership</text>
+  <line x1="520" y1="108" x2="690" y2="108" stroke="#E0DDD5" stroke-width="0.8"/>
+
+  <text x="520" y="132" class="card-old">THE OLD ASSUMPTION</text>
+  <text x="520" y="150" font-size="12" fill="#666666">Individual 401(k)s and IRAs</text>
+  <text x="520" y="166" font-size="12" fill="#666666">are the path to retirement</text>
+
+  <text x="520" y="192" class="card-arrow">&#x2193;</text>
+
+  <text x="520" y="214" class="card-new">THE SHIFT</text>
+  <text x="520" y="232" font-size="12" fill="#333333">UBI, sovereign wealth funds,</text>
+  <text x="520" y="248" font-size="12" fill="#333333">baby bonds; new models for</text>
+  <text x="520" y="264" font-size="12" fill="#333333">distributing capital returns</text>
+
+  <!-- Footer -->
+  <text x="370" y="318" text-anchor="middle" class="footer-text">None of these have a predictable outcome. That is exactly the point.</text>
+</svg>
