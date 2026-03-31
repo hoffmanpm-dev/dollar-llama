@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 520" style="font-family: Arial, Helvetica, sans-serif; background: #FAF8F3;">
+  <!-- Title -->
+  <text x="390" y="28" text-anchor="middle" style="font-size: 13px; font-weight: bold; fill: #2D5016; text-transform: uppercase; letter-spacing: 2.5px;">PE Founders Who Bought Sports Teams</text>
+
+  <!-- Row 1 -->
+  <!-- Card 1: Josh Harris -->
+  <rect x="25" y="50" width="235" height="120" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <rect x="25" y="50" width="235" height="28" rx="8" fill="#2D5016"/>
+  <rect x="25" y="70" width="235" height="8" fill="#2D5016"/>
+  <text x="142" y="70" text-anchor="middle" style="font-size: 12px; font-weight: bold; fill: #FFFFFF;">Josh Harris</text>
+  <text x="45" y="100" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Apollo Global Management</text>
+  <text x="45" y="118" style="font-size: 12px; fill: #333333;">Washington Commanders · $6.05B</text>
+  <text x="45" y="135" style="font-size: 12px; fill: #333333;">76ers · Devils · Crystal Palace</text>
+  <text x="45" y="158" style="font-size: 10px; fill: #999999;">2023</text>
+
+  <!-- Card 2: David Rubenstein -->
+  <rect x="273" y="50" width="235" height="120" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <rect x="273" y="50" width="235" height="28" rx="8" fill="#2D5016"/>
+  <rect x="273" y="70" width="235" height="8" fill="#2D5016"/>
+  <text x="390" y="70" text-anchor="middle" style="font-size: 12px; font-weight: bold; fill: #FFFFFF;">David Rubenstein</text>
+  <text x="293" y="100" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">The Carlyle Group</text>
+  <text x="293" y="118" style="font-size: 12px; fill: #333333;">Baltimore Orioles · $1.7B</text>
+  <text x="293" y="158" style="font-size: 10px; fill: #999999;">2024</text>
+
+  <!-- Card 3: Bill Chisholm -->
+  <rect x="521" y="50" width="235" height="120" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <rect x="521" y="50" width="235" height="28" rx="8" fill="#2D5016"/>
+  <rect x="521" y="70" width="235" height="8" fill="#2D5016"/>
+  <text x="638" y="70" text-anchor="middle" style="font-size: 12px; font-weight: bold; fill: #FFFFFF;">Bill Chisholm</text>
+  <text x="541" y="100" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Symphony Technology Group</text>
+  <text x="541" y="118" style="font-size: 12px; fill: #333333;">Boston Celtics · $6.1B</text>
+  <text x="541" y="158" style="font-size: 10px; fill: #999999;">2025</text>
+
+  <!-- Row 2 -->
+  <!-- Card 4: Gerry Cardinale -->
+  <rect x="25" y="195" width="235" height="120" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <rect x="25" y="195" width="235" height="28" rx="8" fill="#2D5016"/>
+  <rect x="25" y="215" width="235" height="8" fill="#2D5016"/>
+  <text x="142" y="215" text-anchor="middle" style="font-size: 12px; font-weight: bold; fill: #FFFFFF;">Gerry Cardinale</text>
+  <text x="45" y="245" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">RedBird Capital Partners</text>
+  <text x="45" y="263" style="font-size: 12px; fill: #333333;">AC Milan · Fenway Sports Group</text>
+  <text x="45" y="280" style="font-size: 11px; fill: #999999;">(Red Sox, Liverpool FC)</text>
+  <text x="45" y="303" style="font-size: 10px; fill: #999999;">2021 - 2022</text>
+
+  <!-- Card 5: Rick Schnall -->
+  <rect x="273" y="195" width="235" height="120" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <rect x="273" y="195" width="235" height="28" rx="8" fill="#2D5016"/>
+  <rect x="273" y="215" width="235" height="8" fill="#2D5016"/>
+  <text x="390" y="215" text-anchor="middle" style="font-size: 12px; font-weight: bold; fill: #FFFFFF;">Rick Schnall</text>
+  <text x="293" y="245" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Clayton, Dubilier &amp; Rice</text>
+  <text x="293" y="263" style="font-size: 12px; fill: #333333;">Charlotte Hornets</text>
+  <text x="293" y="303" style="font-size: 10px; fill: #999999;">2023</text>
+
+  <!-- Card 6: Tom Dundon -->
+  <rect x="521" y="195" width="235" height="120" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <rect x="521" y="195" width="235" height="28" rx="8" fill="#2D5016"/>
+  <rect x="521" y="215" width="235" height="8" fill="#2D5016"/>
+  <text x="638" y="215" text-anchor="middle" style="font-size: 12px; font-weight: bold; fill: #FFFFFF;">Tom Dundon</text>
+  <text x="541" y="245" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Dundon Capital Partners</text>
+  <text x="541" y="263" style="font-size: 12px; fill: #333333;">Carolina Hurricanes</text>
+  <text x="541" y="280" style="font-size: 12px; fill: #333333;">Portland Trail Blazers</text>
+  <text x="541" y="303" style="font-size: 10px; fill: #999999;">2018 · 2026</text>
+
+  <!-- Row 3: Bonderman centered -->
+  <!-- Card 7: David Bonderman -->
+  <rect x="273" y="340" width="235" height="130" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <rect x="273" y="340" width="235" height="28" rx="8" fill="#2D5016"/>
+  <rect x="273" y="360" width="235" height="8" fill="#2D5016"/>
+  <text x="390" y="360" text-anchor="middle" style="font-size: 12px; font-weight: bold; fill: #FFFFFF;">David Bonderman</text>
+  <text x="293" y="390" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">TPG</text>
+  <text x="293" y="408" style="font-size: 12px; fill: #333333;">Seattle Kraken (co-founder)</text>
+  <text x="293" y="425" style="font-size: 12px; fill: #333333;">Boston Celtics (minority stake)</text>
+  <text x="293" y="458" style="font-size: 10px; fill: #999999;">2002 - 2024</text>
+
+  <!-- Footer -->
+  <text x="390" y="508" text-anchor="middle" style="font-size: 10px; fill: #999999; letter-spacing: 1px; text-transform: uppercase;">Source: Dollar Llama Research · dollar-llama.com</text>
+</svg>

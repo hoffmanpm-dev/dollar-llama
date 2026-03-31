@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 340" style="font-family: Arial, Helvetica, sans-serif; background: #FAF8F3;">
+  <!-- Title -->
+  <text x="390" y="30" text-anchor="middle" style="font-size: 13px; font-weight: bold; fill: #2D5016; text-transform: uppercase; letter-spacing: 2.5px;">GP Economics on a $1 Billion Fund</text>
+  <text x="390" y="48" text-anchor="middle" style="font-size: 10px; fill: #999999; letter-spacing: 1px; text-transform: uppercase;">Management Fees + Carried Interest Over 10-Year Fund Life</text>
+
+  <!-- Card 1: 1.5x Return -->
+  <rect x="30" y="70" width="225" height="230" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <!-- Header -->
+  <rect x="30" y="70" width="225" height="32" rx="8" fill="#2D5016"/>
+  <rect x="30" y="94" width="225" height="8" fill="#2D5016"/>
+  <text x="142" y="92" text-anchor="middle" style="font-size: 14px; font-weight: bold; fill: #FFFFFF;">1.5x Return</text>
+
+  <!-- Labels and values -->
+  <text x="50" y="128" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Fund Return to LPs</text>
+  <text x="50" y="145" style="font-size: 13px; fill: #333333;">$1.5 Billion</text>
+
+  <line x1="50" y1="155" x2="235" y2="155" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="50" y="175" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Management Fees</text>
+  <text x="50" y="192" style="font-size: 13px; fill: #333333;">$140 Million</text>
+
+  <line x1="50" y1="202" x2="235" y2="202" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="50" y="222" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Carried Interest</text>
+  <text x="50" y="239" style="font-size: 13px; fill: #333333;">$64 Million</text>
+
+  <line x1="50" y1="249" x2="235" y2="249" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="50" y="269" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Total GP Revenue</text>
+  <text x="50" y="288" style="font-size: 15px; font-weight: bold; fill: #2D5016;">$204 Million</text>
+
+  <!-- Card 2: 2x Return -->
+  <rect x="278" y="70" width="225" height="230" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <!-- Header -->
+  <rect x="278" y="70" width="225" height="32" rx="8" fill="#2D5016"/>
+  <rect x="278" y="94" width="225" height="8" fill="#2D5016"/>
+  <text x="390" y="92" text-anchor="middle" style="font-size: 14px; font-weight: bold; fill: #FFFFFF;">2x Return</text>
+
+  <text x="298" y="128" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Fund Return to LPs</text>
+  <text x="298" y="145" style="font-size: 13px; fill: #333333;">$2.0 Billion</text>
+
+  <line x1="298" y1="155" x2="483" y2="155" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="298" y="175" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Management Fees</text>
+  <text x="298" y="192" style="font-size: 13px; fill: #333333;">$140 Million</text>
+
+  <line x1="298" y1="202" x2="483" y2="202" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="298" y="222" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Carried Interest</text>
+  <text x="298" y="239" style="font-size: 13px; fill: #333333;">$164 Million</text>
+
+  <line x1="298" y1="249" x2="483" y2="249" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="298" y="269" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Total GP Revenue</text>
+  <text x="298" y="288" style="font-size: 15px; font-weight: bold; fill: #2D5016;">$304 Million</text>
+
+  <!-- Card 3: 3x Return -->
+  <rect x="526" y="70" width="225" height="230" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <!-- Header -->
+  <rect x="526" y="70" width="225" height="32" rx="8" fill="#2D5016"/>
+  <rect x="526" y="94" width="225" height="8" fill="#2D5016"/>
+  <text x="638" y="92" text-anchor="middle" style="font-size: 14px; font-weight: bold; fill: #FFFFFF;">3x Return</text>
+
+  <text x="546" y="128" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Fund Return to LPs</text>
+  <text x="546" y="145" style="font-size: 13px; fill: #333333;">$3.0 Billion</text>
+
+  <line x1="546" y1="155" x2="731" y2="155" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="546" y="175" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Management Fees</text>
+  <text x="546" y="192" style="font-size: 13px; fill: #333333;">$140 Million</text>
+
+  <line x1="546" y1="202" x2="731" y2="202" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="546" y="222" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Carried Interest</text>
+  <text x="546" y="239" style="font-size: 13px; fill: #333333;">$364 Million</text>
+
+  <line x1="546" y1="249" x2="731" y2="249" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="546" y="269" style="font-size: 10px; fill: #999999; text-transform: uppercase; letter-spacing: 1px;">Total GP Revenue</text>
+  <text x="546" y="288" style="font-size: 15px; font-weight: bold; fill: #2D5016;">$504 Million</text>
+
+  <!-- Footer -->
+  <text x="390" y="328" text-anchor="middle" style="font-size: 10px; fill: #999999; letter-spacing: 1px; text-transform: uppercase;">Assumes 2% mgmt fee (yrs 1-5), 1% (yrs 6-10), 20% carry over 8% hurdle · Source: Dollar Llama</text>
+</svg>
