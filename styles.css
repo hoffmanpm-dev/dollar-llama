@@ -711,6 +711,56 @@ a:hover { color: var(--green-light); }
   margin-bottom: 2px;
 }
 
+/* ---- TOOLS PAGE ---- */
+.tool-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  padding: 36px 32px;
+  margin-bottom: 32px;
+}
+
+.tool-card h2 {
+  font-family: var(--font-heading);
+  font-size: 28px;
+  color: var(--charcoal);
+  margin-bottom: 12px;
+}
+
+.tool-features {
+  margin: 24px 0 8px;
+}
+
+.tool-feat {
+  font-size: 15px;
+  color: var(--gray);
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.tool-feat:last-child {
+  border-bottom: none;
+}
+
+.tool-feat strong {
+  color: var(--charcoal);
+}
+
+.tool-backstory {
+  margin: 32px 0 0;
+}
+
+.tool-backstory h2 {
+  font-family: var(--font-heading);
+  font-size: 24px;
+  color: var(--charcoal);
+  margin: 0 0 12px;
+}
+
+.tool-backstory p {
+  font-size: 16px;
+  color: var(--gray);
+}
+
 /* ---- RESPONSIVE ---- */
 @media (max-width: 640px) {
   .hero-coin { width: 150px; }

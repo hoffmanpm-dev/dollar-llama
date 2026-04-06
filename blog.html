@@ -1,186 +1,193 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog &mdash; Dollar Llama</title>
-    <meta name="description" content="Articles on investing, financial planning, and building wealth without the sales pitch. Written by a family office professional.">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" type="image/png" href="logo.png">
-    <link rel="apple-touch-icon" href="logo.png">
-    <link rel="canonical" href="https://dollar-llama.com/blog.html">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://dollar-llama.com/blog.html">
-    <meta property="og:title" content="Blog — Dollar Llama">
-    <meta property="og:description" content="Articles on investing, financial planning, and building wealth without the sales pitch.">
-    <meta property="og:image" content="https://dollar-llama.com/logo.png">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Blog — Dollar Llama">
-    <meta name="twitter:description" content="Articles on investing, financial planning, and building wealth without the sales pitch.">
-    <meta name="twitter:image" content="https://dollar-llama.com/logo.png">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog &mdash; Dollar Llama</title>
+  <meta name="description" content="Articles on investing, financial planning, and building wealth without the sales pitch. Written by a family office professional.">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/png" href="logo.png">
+  <link rel="apple-touch-icon" href="logo.png">
+  <link rel="canonical" href="https://dollar-llama.com/blog.html">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://dollar-llama.com/blog.html">
+  <meta property="og:title" content="Blog — Dollar Llama">
+  <meta property="og:description" content="Articles on investing, financial planning, and building wealth without the sales pitch.">
+  <meta property="og:image" content="https://dollar-llama.com/logo.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Blog — Dollar Llama">
+  <meta name="twitter:description" content="Articles on investing, financial planning, and building wealth without the sales pitch.">
+  <meta name="twitter:image" content="https://dollar-llama.com/logo.png">
 </head>
 <body>
-    <header class="site-header">
-        <nav>
-            <a href="index.html" class="logo"><img src="logo.png" alt="Dollar Llama logo">Dollar Llama</a>
-            <ul class="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="blog.html" class="active">Blog</a></li>
-                <li><a href="about.html">About</a></li>
-            </ul>
-        </nav>
-    </header>
+  <header class="site-header">
+    <nav>
+      <a href="index.html" class="logo"><img src="logo.png" alt="Dollar Llama logo">Dollar Llama</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="blog.html" class="active">Blog</a></li>
+        <li><a href="tools.html">Tools</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
 
-    <main>
-        <h1 style="margin-bottom: 8px;">Blog</h1>
-        <p style="color: var(--gray); margin-bottom: 40px;">Investing, real estate, and the stuff the financial industry leaves out</p>
+  <main>
+    <h1 style="margin-bottom: 8px;">Blog</h1>
+    <p style="color: var(--gray); margin-bottom: 40px;">Investing, real estate, and the stuff the financial industry leaves out</p>
 
-        <div class="featured-post">
-            <div class="post-category">Featured</div>
-            <h2><a href="blog/investors-sports-teams.html">Where Are All the Investors' Sports Teams?</a></h2>
-            <p class="excerpt">Private equity GPs are buying sports franchises worth billions. Here's how the economics of PE funds create that kind of wealth, and what it means as PE comes to retirement accounts.</p>
-            <a href="blog/investors-sports-teams.html" class="read-more">Read the post &rarr;</a>
-        </div>
+    <div class="featured-post">
+      <div class="post-category">Featured</div>
+      <h2><a href="blog/are-real-estate-agents-worth-it.html">Are Real Estate Agents Worth the Commission?</a></h2>
+      <p class="excerpt">A licensed broker who has never earned a commission breaks down what real estate agents actually do, what they cost, and whether the value justifies the price.</p>
+      <a href="blog/are-real-estate-agents-worth-it.html" class="read-more">Read the post &rarr;</a>
+    </div>
 
-        <div style="margin-bottom: 32px;">
-            <input type="text" id="blog-search" placeholder="Search posts..." style="width:100%; font-family:var(--font-body); font-size:16px; padding:12px 16px; border:1px solid var(--border); background:var(--white); color:var(--charcoal); outline:none; margin-bottom:16px; transition:border-color 0.2s;" onfocus="this.style.borderColor='var(--green)'" onblur="this.style.borderColor='var(--border)'">
-            <div id="category-filters" style="display:flex; gap:8px; flex-wrap:wrap;">
-                <button class="cat-btn active" data-category="all" style="font-family:var(--font-heading); font-size:13px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px; padding:8px 16px; border:1px solid var(--green); background:var(--green); color:var(--white); cursor:pointer; transition:all 0.2s;">All</button>
-                <button class="cat-btn" data-category="investing" style="font-family:var(--font-heading); font-size:13px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px; padding:8px 16px; border:1px solid var(--border); background:var(--white); color:var(--charcoal); cursor:pointer; transition:all 0.2s;">Investing</button>
-                <button class="cat-btn" data-category="real estate" style="font-family:var(--font-heading); font-size:13px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px; padding:8px 16px; border:1px solid var(--border); background:var(--white); color:var(--charcoal); cursor:pointer; transition:all 0.2s;">Real Estate</button>
-            </div>
-        </div>
+    <div style="margin-bottom: 32px;">
+      <input type="text" id="blog-search" placeholder="Search posts..." style="width:100%; font-family:var(--font-body); font-size:16px; padding:12px 16px; border:1px solid var(--border); background:var(--white); color:var(--charcoal); outline:none; margin-bottom:16px; transition:border-color 0.2s;" onfocus="this.style.borderColor='var(--green)'" onblur="this.style.borderColor='var(--border)'">
+      <div id="category-filters" style="display:flex; gap:8px; flex-wrap:wrap;">
+        <button class="cat-btn active" data-category="all" style="font-family:var(--font-heading); font-size:13px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px; padding:8px 16px; border:1px solid var(--green); background:var(--green); color:var(--white); cursor:pointer; transition:all 0.2s;">All</button>
+        <button class="cat-btn" data-category="investing" style="font-family:var(--font-heading); font-size:13px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px; padding:8px 16px; border:1px solid var(--border); background:var(--white); color:var(--charcoal); cursor:pointer; transition:all 0.2s;">Investing</button>
+        <button class="cat-btn" data-category="real estate" style="font-family:var(--font-heading); font-size:13px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px; padding:8px 16px; border:1px solid var(--border); background:var(--white); color:var(--charcoal); cursor:pointer; transition:all 0.2s;">Real Estate</button>
+      </div>
+    </div>
 
-        <div class="section-title">All Posts</div>
-        <ul class="blog-list" id="post-list">
-            <li data-category="investing">
-                <div class="post-category">Investing</div>
-                <h2><a href="blog/investors-sports-teams.html">Where Are All the Investors' Sports Teams?</a></h2>
-                <p class="excerpt">Private equity GPs are buying sports franchises worth billions. Here's how the economics of PE funds create that kind of wealth, and what it means as PE comes to retirement accounts.</p>
-                <a href="blog/investors-sports-teams.html" class="read-more">Read the post &rarr;</a>
-            </li>
-            <li data-category="investing">
-                <div class="post-category">Investing</div>
-                <h2><a href="blog/how-countries-invest.html">Why Germans Save, Americans Buy Stocks, and the Chinese Bought Apartments</a></h2>
-                <p class="excerpt">Policy shapes culture, culture shapes portfolios. How structural economic changes across Germany, China, and the US make the case for diversification without making any predictions.</p>
-                <a href="blog/how-countries-invest.html" class="read-more">Read the post &rarr;</a>
-            </li>
-            <li data-category="real estate">
-                <div class="post-category">Real Estate</div>
-                <h2><a href="blog/are-real-estate-agents-worth-it.html">Are Real Estate Agents Worth the Commission?</a></h2>
-                <p class="excerpt">A licensed broker who has never earned a commission breaks down what real estate agents actually do, what they cost, and whether the value justifies the price.</p>
-                <a href="blog/are-real-estate-agents-worth-it.html" class="read-more">Read the post &rarr;</a>
-            </li>
-            <li data-category="investing">
-                <div class="post-category">Investing</div>
-                <h2><a href="blog/training-for-your-race.html">Training for the Race You&rsquo;re Actually In</a></h2>
-                <p class="excerpt">Your portfolio exists to fund your life, not to beat an index. On aging into your goals, the gap that stings, and knowing when to push harder.</p>
-                <a href="blog/training-for-your-race.html" class="read-more">Read the post &rarr;</a>
-            </li>
-            <li data-category="investing">
-                <div class="post-category">Investing</div>
-                <h2><a href="blog/what-good-advisors-do.html">What Good Advisors Actually Do</a></h2>
-                <p class="excerpt">The best advisors rarely talk about investment returns in the first meeting. They talk about your life, your goals, your taxes, and whether you&rsquo;re on track. Here&rsquo;s the checklist for what to look for.</p>
-                <a href="blog/what-good-advisors-do.html" class="read-more">Read the post &rarr;</a>
-            </li>
-            <li data-category="investing">
-                <div class="post-category">Investing</div>
-                <h2><a href="blog/good-investing-is-boring.html">Good Investing Is Boring. That&rsquo;s the Point.</a></h2>
-                <p class="excerpt">Everyone is tempted to react to financial headlines. The difference is having a process that keeps you on course. Process, strategy, compounding, and moderating behavior. That&rsquo;s how wealth is actually built.</p>
-                <a href="blog/good-investing-is-boring.html" class="read-more">Read the post &rarr;</a>
-            </li>
-            <li data-category="investing">
-                <div class="post-category">Investing</div>
-                <h2><a href="blog/the-20-fund-portfolio.html">The 20-Fund Portfolio: How Your Advisor Built You an Expensive Index</a></h2>
-                <p class="excerpt">If your portfolio has 15 to 30 mutual funds, you might be paying for something that isn&rsquo;t doing what you think. Includes a side-by-side comparison of a 22-fund portfolio vs. a 3-ETF portfolio with nearly identical exposure.</p>
-                <a href="blog/the-20-fund-portfolio.html" class="read-more">Read the post &rarr;</a>
-            </li>
-            <li data-category="investing">
-                <div class="post-category">Investing</div>
-                <h2><a href="blog/allocator-vs-investor.html">Are You an Allocator or an Investor? The Difference Changes Everything.</a></h2>
-                <p class="excerpt">The financial industry makes you an allocator by default. Understanding what that means, and what the alternative looks like, will change how you think about building wealth.</p>
-                <a href="blog/allocator-vs-investor.html" class="read-more">Read the post &rarr;</a>
-            </li>
-            <li data-category="investing">
-                <div class="post-category">Investing</div>
-                <h2><a href="blog/active-vs-passive.html">Active vs. Passive: The Distinction Wall Street Doesn&rsquo;t Want You to Make</a></h2>
-                <p class="excerpt">The active vs. passive debate you know is only half the story. There&rsquo;s a second distinction the industry never talks about, because it threatens the entire business model.</p>
-                <a href="blog/active-vs-passive.html" class="read-more">Read the post &rarr;</a>
-            </li>
-        </ul>
-        <p id="no-results" style="display:none; text-align:center; color:var(--gray); font-style:italic; padding:32px 0;">No posts match your search.</p>
+    <div class="section-title">All Posts</div>
 
-        <script>
-        (function() {
-            var search = document.getElementById('blog-search');
-            var buttons = document.querySelectorAll('.cat-btn');
-            var posts = document.querySelectorAll('#post-list > li');
-            var featured = document.querySelector('.featured-post');
-            var noResults = document.getElementById('no-results');
-            var activeCategory = 'all';
+    <ul class="blog-list" id="post-list">
+      <li data-category="investing">
+        <div class="post-category">Investing</div>
+        <h2><a href="blog/how-countries-invest.html">Why Germans Save, Americans Buy Stocks, and the Chinese Bought Apartments</a></h2>
+        <p class="excerpt">Policy shapes culture, culture shapes portfolios. How structural economic changes across Germany, China, and the US make the case for diversification without making any predictions.</p>
+        <a href="blog/how-countries-invest.html" class="read-more">Read the post &rarr;</a>
+      </li>
+      <li data-category="real estate">
+        <div class="post-category">Real Estate</div>
+        <h2><a href="blog/are-real-estate-agents-worth-it.html">Are Real Estate Agents Worth the Commission?</a></h2>
+        <p class="excerpt">A licensed broker who has never earned a commission breaks down what real estate agents actually do, what they cost, and whether the value justifies the price.</p>
+        <a href="blog/are-real-estate-agents-worth-it.html" class="read-more">Read the post &rarr;</a>
+      </li>
+      <li data-category="investing">
+        <div class="post-category">Investing</div>
+        <h2><a href="blog/training-for-your-race.html">Training for the Race You&rsquo;re Actually In</a></h2>
+        <p class="excerpt">Your portfolio exists to fund your life, not to beat an index. On aging into your goals, the gap that stings, and knowing when to push harder.</p>
+        <a href="blog/training-for-your-race.html" class="read-more">Read the post &rarr;</a>
+      </li>
+      <li data-category="investing">
+        <div class="post-category">Investing</div>
+        <h2><a href="blog/what-good-advisors-do.html">What Good Advisors Actually Do</a></h2>
+        <p class="excerpt">The best advisors rarely talk about investment returns in the first meeting. They talk about your life, your goals, your taxes, and whether you&rsquo;re on track. Here&rsquo;s the checklist for what to look for.</p>
+        <a href="blog/what-good-advisors-do.html" class="read-more">Read the post &rarr;</a>
+      </li>
+      <li data-category="investing">
+        <div class="post-category">Investing</div>
+        <h2><a href="blog/good-investing-is-boring.html">Good Investing Is Boring. That&rsquo;s the Point.</a></h2>
+        <p class="excerpt">Everyone is tempted to react to financial headlines. The difference is having a process that keeps you on course. Process, strategy, compounding, and moderating behavior. That&rsquo;s how wealth is actually built.</p>
+        <a href="blog/good-investing-is-boring.html" class="read-more">Read the post &rarr;</a>
+      </li>
+      <li data-category="investing">
+        <div class="post-category">Investing</div>
+        <h2><a href="blog/the-20-fund-portfolio.html">The 20-Fund Portfolio: How Your Advisor Built You an Expensive Index</a></h2>
+        <p class="excerpt">If your portfolio has 15 to 30 mutual funds, you might be paying for something that isn&rsquo;t doing what you think. Includes a side-by-side comparison of a 22-fund portfolio vs. a 3-ETF portfolio with nearly identical exposure.</p>
+        <a href="blog/the-20-fund-portfolio.html" class="read-more">Read the post &rarr;</a>
+      </li>
+      <li data-category="investing">
+        <div class="post-category">Investing</div>
+        <h2><a href="blog/allocator-vs-investor.html">Are You an Allocator or an Investor? The Difference Changes Everything.</a></h2>
+        <p class="excerpt">The financial industry makes you an allocator by default. Understanding what that means, and what the alternative looks like, will change how you think about building wealth.</p>
+        <a href="blog/allocator-vs-investor.html" class="read-more">Read the post &rarr;</a>
+      </li>
+      <li data-category="investing">
+        <div class="post-category">Investing</div>
+        <h2><a href="blog/active-vs-passive.html">Active vs. Passive: The Distinction Wall Street Doesn&rsquo;t Want You to Make</a></h2>
+        <p class="excerpt">The active vs. passive debate you know is only half the story. There&rsquo;s a second distinction the industry never talks about, because it threatens the entire business model.</p>
+        <a href="blog/active-vs-passive.html" class="read-more">Read the post &rarr;</a>
+      </li>
+    </ul>
 
-            function filterPosts() {
-                var query = search.value.toLowerCase().trim();
-                var visible = 0;
-                posts.forEach(function(post) {
-                    var cat = post.getAttribute('data-category');
-                    var text = post.textContent.toLowerCase();
-                    var matchCat = (activeCategory === 'all' || cat === activeCategory);
-                    var matchSearch = (!query || text.indexOf(query) !== -1);
-                    if (matchCat && matchSearch) { post.style.display = ''; visible++; }
-                    else { post.style.display = 'none'; }
-                });
-                if (featured) {
-                    var featCat = 'investing';
-                    var featText = featured.textContent.toLowerCase();
-                    var featMatchCat = (activeCategory === 'all' || featCat === activeCategory);
-                    var featMatchSearch = (!query || featText.indexOf(query) !== -1);
-                    featured.style.display = (featMatchCat && featMatchSearch) ? '' : 'none';
-                    if (featMatchCat && featMatchSearch) visible++;
-                }
-                noResults.style.display = (visible === 0) ? 'block' : 'none';
-            }
+    <p id="no-results" style="display:none; text-align:center; color:var(--gray); font-style:italic; padding:32px 0;">No posts match your search.</p>
 
-            buttons.forEach(function(btn) {
-                btn.addEventListener('click', function() {
-                    activeCategory = this.getAttribute('data-category');
-                    buttons.forEach(function(b) {
-                        b.style.background = 'var(--white)'; b.style.color = 'var(--charcoal)';
-                        b.style.borderColor = 'var(--border)'; b.classList.remove('active');
-                    });
-                    this.style.background = 'var(--green)'; this.style.color = 'var(--white)';
-                    this.style.borderColor = 'var(--green)'; this.classList.add('active');
-                    filterPosts();
-                });
-            });
-            search.addEventListener('input', filterPosts);
-        })();
-        </script>
+    <script>
+    (function() {
+      var search = document.getElementById('blog-search');
+      var buttons = document.querySelectorAll('.cat-btn');
+      var posts = document.querySelectorAll('#post-list > li');
+      var featured = document.querySelector('.featured-post');
+      var noResults = document.getElementById('no-results');
+      var activeCategory = 'all';
 
-        <div class="contact-section">
-            <h2>Got a Question?</h2>
-            <p>Have a topic you want me to cover in a future post? A question about investing, real estate, or financial strategy? Send it my way.</p>
-            <a href="mailto:info@dollar-llama.com?subject=Dollar%20Llama%20Question" class="contact-form" style="display:inline-block;text-decoration:none;"><button type="button" style="cursor:pointer;">Send Us a Question</button></a>
-        </div>
-    </main>
+      function filterPosts() {
+        var query = search.value.toLowerCase().trim();
+        var visible = 0;
+        posts.forEach(function(post) {
+          var cat = post.getAttribute('data-category');
+          var text = post.textContent.toLowerCase();
+          var matchCat = (activeCategory === 'all' || cat === activeCategory);
+          var matchSearch = (!query || text.indexOf(query) !== -1);
+          if (matchCat && matchSearch) {
+            post.style.display = '';
+            visible++;
+          } else {
+            post.style.display = 'none';
+          }
+        });
+        // Also filter featured post
+        if (featured) {
+          var featCat = 'real estate';
+          var featText = featured.textContent.toLowerCase();
+          var featMatchCat = (activeCategory === 'all' || featCat === activeCategory);
+          var featMatchSearch = (!query || featText.indexOf(query) !== -1);
+          featured.style.display = (featMatchCat && featMatchSearch) ? '' : 'none';
+          if (featMatchCat && featMatchSearch) visible++;
+        }
+        noResults.style.display = (visible === 0) ? 'block' : 'none';
+      }
 
-    <section class="subscribe-section">
-        <div class="subscribe-inner">
-            <h2>Stay in the Loop</h2>
-            <p>One email a week. No spam. No sales pitch. Just the frameworks and thinking from 16 years inside family offices, written for everyone else.</p>
-            <a href="https://lp.constantcontactpages.com/sl/aiO15xW" target="_blank" class="subscribe-form" style="display:inline-block;text-decoration:none;"><button type="button" style="cursor:pointer;">Subscribe</button></a>
-        </div>
-    </section>
+      buttons.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          activeCategory = this.getAttribute('data-category');
+          buttons.forEach(function(b) {
+            b.style.background = 'var(--white)';
+            b.style.color = 'var(--charcoal)';
+            b.style.borderColor = 'var(--border)';
+            b.classList.remove('active');
+          });
+          this.style.background = 'var(--green)';
+          this.style.color = 'var(--white)';
+          this.style.borderColor = 'var(--green)';
+          this.classList.add('active');
+          filterPosts();
+        });
+      });
 
-    <footer class="site-footer">
-        <ul class="footer-links">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="https://quickreanalyzer.com" target="_blank">Quick RE Analyzer</a></li>
-        </ul>
-        <p class="disclaimer">Nothing on this site is investment advice. All content reflects the personal opinions of the author and not those of my employer.</p>
-        <p>&copy; 2026 Dollar Llama. All rights reserved.</p>
-    </footer>
+      search.addEventListener('input', filterPosts);
+    })();
+    </script>
+
+    <div class="contact-section">
+      <h2>Got a Question?</h2>
+      <p>Have a topic you want me to cover in a future post? A question about investing, real estate, or financial strategy? Send it my way.</p>
+      <a href="mailto:info@dollar-llama.com?subject=Dollar%20Llama%20Question" class="contact-form" style="display:inline-block;text-decoration:none;"><button type="button" style="cursor:pointer;">Send Us a Question</button></a>
+    </div>
+  </main>
+
+  <section class="subscribe-section">
+    <div class="subscribe-inner">
+      <h2>Stay in the Loop</h2>
+      <p>One email a week. No spam. No sales pitch. Just the frameworks and thinking from 16 years inside family offices, written for everyone else.</p>
+      <a href="https://lp.constantcontactpages.com/sl/aiO15xW" target="_blank" class="subscribe-form" style="display:inline-block;text-decoration:none;"><button type="button" style="cursor:pointer;">Subscribe</button></a>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <ul class="footer-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="blog.html">Blog</a></li>
+      <li><a href="tools.html">Tools</a></li>
+      <li><a href="about.html">About</a></li>
+    </ul>
+    <p class="disclaimer">Nothing on this site is investment advice. All content reflects the personal opinions of the author and not those of my employer.</p>
+            <p>&copy; 2026 Dollar Llama. All rights reserved.</p>
+  </footer>
 </body>
 </html>
