@@ -1,37 +1,37 @@
-<svg viewBox="0 0 760 300" xmlns="http://www.w3.org/2000/svg" style="font-family: Arial, Helvetica, sans-serif; background: #FAF8F3">
+<svg viewBox="0 0 760 340" xmlns="http://www.w3.org/2000/svg" style="font-family: Arial, Helvetica, sans-serif; background: #FAF8F3">
     <!-- Title -->
     <text x="380" y="30" font-size="13" font-weight="bold" text-anchor="middle" fill="#2D5016" letter-spacing="2.5">U.S. OPEN QUALIFYING FUNNEL</text>
 
     <!-- Card Background -->
-    <rect x="20" y="45" width="720" height="240" rx="8" fill="white" stroke="#E0DDD5" stroke-width="1"/>
+    <rect x="20" y="45" width="720" height="280" rx="8" fill="white" stroke="#E0DDD5" stroke-width="1"/>
 
     <!-- Funnel Level 1: 10,201 Entries -->
     <g>
         <rect x="80" y="70" width="600" height="50" rx="4" fill="#2D5016" opacity="1"/>
         <text x="380" y="92" font-size="16" font-weight="bold" text-anchor="middle" fill="white">10,201 Entries</text>
-        <text x="380" y="110" font-size="12" text-anchor="middle" fill="white">Any pro or amateur (0.4 index or better)</text>
+        <text x="380" y="110" font-size="11" text-anchor="middle" fill="white">Any pro or amateur (0.4 index or better)</text>
     </g>
 
     <!-- Arrow 1 -->
-    <polygon points="380,125 370,140 390,140" fill="#2D5016"/>
+    <polygon points="370,125 390,125 380,140" fill="#2D5016"/>
 
     <!-- Funnel Level 2: ~530 Advance -->
     <g>
         <rect x="155" y="150" width="450" height="50" rx="4" fill="#2D5016" opacity="0.75"/>
         <text x="380" y="172" font-size="16" font-weight="bold" text-anchor="middle" fill="white">~530 Advance</text>
-        <text x="380" y="190" font-size="12" text-anchor="middle" fill="white">Local Qualifying: 18 holes at 109 sites (top 5-6%)</text>
+        <text x="380" y="190" font-size="11" text-anchor="middle" fill="white">Local Qualifying: 18 holes at 109 sites</text>
     </g>
 
     <!-- Arrow 2 -->
-    <polygon points="380,205 370,220 390,220" fill="#2D5016"/>
+    <polygon points="370,205 390,205 380,220" fill="#2D5016"/>
 
     <!-- Funnel Level 3: ~75 Qualify -->
     <g>
         <rect x="230" y="230" width="300" height="50" rx="4" fill="#2D5016" opacity="0.5"/>
         <text x="380" y="252" font-size="16" font-weight="bold" text-anchor="middle" fill="white">~75 Qualify</text>
-        <text x="380" y="270" font-size="12" text-anchor="middle" fill="white">Final Qualifying: 36 holes in one day (Golf's Longest Day)</text>
+        <text x="380" y="270" font-size="11" text-anchor="middle" fill="white">Final Qualifying: 36 holes in one day</text>
     </g>
 
     <!-- Bottom Text -->
-    <text x="380" y="290" font-size="12" text-anchor="middle" fill="#333333" font-style="italic">From 10,201 entries to fewer than 80 spots. Less than 1% make it through.</text>
+    <text x="380" y="308" font-size="12" text-anchor="middle" fill="#333333" font-style="italic">From 10,201 entries to fewer than 80 spots. Less than 1% make it through.</text>
 </svg>
