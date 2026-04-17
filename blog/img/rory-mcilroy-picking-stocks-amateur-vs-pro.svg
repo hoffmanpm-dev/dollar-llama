@@ -1,0 +1,58 @@
+<svg viewBox="0 0 760 340" xmlns="http://www.w3.org/2000/svg" style="font-family: Arial, Helvetica, sans-serif; background: #FAF8F3">
+    <!-- Title -->
+    <text x="380" y="30" font-size="13" font-weight="bold" text-anchor="middle" fill="#2D5016" letter-spacing="2.5">AMATEUR VS. PROFESSIONAL</text>
+
+    <!-- Left Card -->
+    <g>
+        <!-- Card Background -->
+        <rect x="30" y="50" width="350" height="280" rx="8" fill="white" stroke="#E0DDD5" stroke-width="1"/>
+
+        <!-- Header Bar - Amateur -->
+        <rect x="30" y="50" width="350" height="40" rx="8" fill="#2D5016"/>
+        <text x="210" y="76" font-size="14" font-weight="bold" text-anchor="middle" fill="white">THE AMATEUR</text>
+
+        <!-- Golf Section -->
+        <text x="50" y="105" font-size="10" font-weight="bold" text-transform="uppercase" fill="#999999" letter-spacing="1">Golf</text>
+        <text x="50" y="125" font-size="13" fill="#333333">Practices when schedule allows</text>
+        <text x="50" y="145" font-size="13" fill="#333333">No coaching staff or sports psychologist</text>
+        <text x="50" y="165" font-size="13" fill="#333333">No structured training program</text>
+        <text x="50" y="185" font-size="13" fill="#333333">Has a full-time job</text>
+
+        <!-- Investing Section -->
+        <text x="50" y="210" font-size="10" font-weight="bold" text-transform="uppercase" fill="#999999" letter-spacing="1">Investing</text>
+        <text x="50" y="230" font-size="13" fill="#333333">Publicly available information</text>
+        <text x="50" y="250" font-size="13" fill="#333333">No Bloomberg terminal or expert networks</text>
+        <text x="50" y="270" font-size="13" fill="#333333">No analyst team or financial models</text>
+        <text x="50" y="290" font-size="13" fill="#333333">Research on evenings and weekends</text>
+
+        <!-- Bottom Text -->
+        <text x="210" y="315" font-size="12" font-style="italic" text-anchor="middle" fill="#333333">Playing for fun. Which is fine.</text>
+    </g>
+
+    <!-- Right Card -->
+    <g>
+        <!-- Card Background -->
+        <rect x="380" y="50" width="350" height="280" rx="8" fill="white" stroke="#E0DDD5" stroke-width="1"/>
+
+        <!-- Header Bar - Professional -->
+        <rect x="380" y="50" width="350" height="40" rx="8" fill="#2D5016"/>
+        <text x="560" y="76" font-size="14" font-weight="bold" text-anchor="middle" fill="white">THE PROFESSIONAL</text>
+
+        <!-- Golf Section -->
+        <text x="400" y="105" font-size="10" font-weight="bold" text-transform="uppercase" fill="#999999" letter-spacing="1">Golf</text>
+        <text x="400" y="125" font-size="13" fill="#333333">Periodized year-round training program</text>
+        <text x="400" y="145" font-size="13" fill="#333333">Swing coach, putting coach, psychologist</text>
+        <text x="400" y="165" font-size="13" fill="#333333">Performance coach, data-driven recovery</text>
+        <text x="400" y="185" font-size="13" fill="#333333">Golf is the full-time job</text>
+
+        <!-- Investing Section -->
+        <text x="400" y="210" font-size="10" font-weight="bold" text-transform="uppercase" fill="#999999" letter-spacing="1">Investing</text>
+        <text x="400" y="230" font-size="13" fill="#333333">$32K Bloomberg terminal, FactSet models</text>
+        <text x="400" y="250" font-size="13" fill="#333333">Expert networks, channel checks, alt data</text>
+        <text x="400" y="270" font-size="13" fill="#333333">Teams of sector-specialist analysts</text>
+        <text x="400" y="290" font-size="13" fill="#333333">Full-time, all-consuming operation</text>
+
+        <!-- Bottom Text -->
+        <text x="560" y="315" font-size="12" font-style="italic" text-anchor="middle" fill="#333333">And even they can't beat the index.</text>
+    </g>
+</svg>
