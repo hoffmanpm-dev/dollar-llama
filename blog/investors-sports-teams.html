@@ -190,5 +190,21 @@
             <p>&copy; 2026 Dollar Llama. All rights reserved.</p>
         </div>
     </footer>
+    <script>
+    (function(){
+      var links = document.querySelector('.nav-links, .nav-menu');
+      if (!links) return;
+      var nav = links.parentElement;
+      var btn = document.createElement('button');
+      btn.className = 'nav-toggle';
+      btn.setAttribute('aria-label', 'Menu');
+      btn.innerHTML = '<span></span><span></span><span></span>';
+      nav.insertBefore(btn, links);
+      btn.addEventListener('click', function(){
+        links.classList.toggle('open');
+        btn.classList.toggle('open');
+      });
+    })();
+    </script>
 </body>
 </html>
