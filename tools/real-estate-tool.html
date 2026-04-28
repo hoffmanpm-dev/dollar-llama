@@ -1430,6 +1430,20 @@ function loadFromLocal(){
 document.querySelectorAll('input[type="number"],input[type="text"]').forEach(function(inp){inp.addEventListener('input',saveToLocal)});
 document.querySelectorAll('.rehab-opt,.type-opt,.tog-btn,.step-btn').forEach(function(btn){btn.addEventListener('click',function(){setTimeout(saveToLocal,100)})});
 
+// ─── Protect number inputs from wheel / arrow-key value changes ─────
+// Browsers let a focused <input type="number"> change its value on mouse-wheel
+// scroll and on Up/Down arrow keys, by the field's `step`. That silently alters
+// numbers when the user scrolls the page or arrows around. Block both: blur on
+// wheel (page still scrolls normally) and swallow Up/Down arrow keys.
+document.addEventListener('wheel',function(){
+  var ae=document.activeElement;
+  if(ae&&ae.tagName==='INPUT'&&ae.type==='number')ae.blur();
+},{passive:true});
+document.addEventListener('keydown',function(e){
+  var ae=document.activeElement;
+  if(ae&&ae.tagName==='INPUT'&&ae.type==='number'&&(e.key==='ArrowUp'||e.key==='ArrowDown'))e.preventDefault();
+});
+
 // ─── Nav Toggle ─────────────────────────────────────────────
 $('navToggle').addEventListener('click',function(e){e.preventDefault();$('navLinks').classList.toggle('open')});
 
