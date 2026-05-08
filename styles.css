@@ -89,6 +89,29 @@ h1[id], h2[id], h3[id], h4[id] {
 .nav-links a:hover,
 .nav-links a.active { color: var(--white); }
 
+/* Subscribe CTA in the nav bar */
+.nav-subscribe {
+  font-family: var(--font-heading);
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 10px 20px;
+  margin-left: 24px;
+  background: var(--green);
+  color: var(--white);
+  text-decoration: none;
+  border: 2px solid var(--green);
+  transition: background 0.2s, border-color 0.2s;
+  white-space: nowrap;
+}
+
+.nav-subscribe:hover {
+  background: var(--green-light);
+  border-color: var(--green-light);
+  color: var(--white);
+}
+
 /* ---- HERO ---- */
 .hero {
   background: var(--charcoal);
@@ -833,6 +856,13 @@ a:hover { color: var(--green-light); }
     padding: 8px 0 0;
     margin-top: 12px;
     border-top: 1px solid #444;
+  }
+
+  .nav-subscribe {
+    margin-left: auto;
+    margin-right: 8px;
+    padding: 8px 14px;
+    font-size: 12px;
   }
 
   .nav-links.open,
