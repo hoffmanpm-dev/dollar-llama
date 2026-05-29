@@ -1,0 +1,76 @@
+<svg viewBox="0 0 760 396" xmlns="http://www.w3.org/2000/svg" style="font-family: Arial, Helvetica, sans-serif; background: #FAF8F3;">
+  <rect x="0" y="0" width="760" height="396" rx="10" fill="#FAF8F3"/>
+
+  <!-- Title -->
+  <text x="380" y="34" text-anchor="middle" fill="#2D5016" font-size="13" font-weight="bold" letter-spacing="2.5">THE BRRRR STRATEGY</text>
+  <text x="380" y="54" text-anchor="middle" fill="#999999" font-size="11" letter-spacing="0.5">How one pile of cash builds many properties</text>
+
+  <!-- Card 1: Buy -->
+  <g>
+    <rect x="24" y="78" width="128" height="162" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+    <circle cx="88" cy="110" r="19" fill="#2D5016"/>
+    <text x="88" y="117" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="bold">B</text>
+    <text x="88" y="152" text-anchor="middle" fill="#2D5016" font-size="13" font-weight="bold">Buy</text>
+    <text x="88" y="176" text-anchor="middle" fill="#333333" font-size="11">Buy a rundown</text>
+    <text x="88" y="191" text-anchor="middle" fill="#333333" font-size="11">property cheap</text>
+    <text x="88" y="222" text-anchor="middle" fill="#2D5016" font-size="13" font-weight="bold">$225,000</text>
+  </g>
+
+  <!-- Card 2: Rehab -->
+  <g>
+    <rect x="170" y="78" width="128" height="162" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+    <circle cx="234" cy="110" r="19" fill="#2D5016"/>
+    <text x="234" y="117" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="bold">R</text>
+    <text x="234" y="152" text-anchor="middle" fill="#2D5016" font-size="13" font-weight="bold">Rehab</text>
+    <text x="234" y="176" text-anchor="middle" fill="#333333" font-size="11">Renovate to</text>
+    <text x="234" y="191" text-anchor="middle" fill="#333333" font-size="11">force value up</text>
+    <text x="234" y="222" text-anchor="middle" fill="#2D5016" font-size="13" font-weight="bold">+ $20,000</text>
+  </g>
+
+  <!-- Card 3: Rent -->
+  <g>
+    <rect x="316" y="78" width="128" height="162" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+    <circle cx="380" cy="110" r="19" fill="#2D5016"/>
+    <text x="380" y="117" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="bold">R</text>
+    <text x="380" y="152" text-anchor="middle" fill="#2D5016" font-size="13" font-weight="bold">Rent</text>
+    <text x="380" y="176" text-anchor="middle" fill="#333333" font-size="11">Place a tenant</text>
+    <text x="380" y="191" text-anchor="middle" fill="#333333" font-size="11">for income</text>
+    <text x="380" y="222" text-anchor="middle" fill="#2D5016" font-size="13" font-weight="bold">$2,400/mo</text>
+  </g>
+
+  <!-- Card 4: Refinance -->
+  <g>
+    <rect x="462" y="78" width="128" height="162" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+    <circle cx="526" cy="110" r="19" fill="#2D5016"/>
+    <text x="526" y="117" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="bold">R</text>
+    <text x="526" y="152" text-anchor="middle" fill="#2D5016" font-size="13" font-weight="bold">Refinance</text>
+    <text x="526" y="176" text-anchor="middle" fill="#333333" font-size="11">Worth $300k now,</text>
+    <text x="526" y="191" text-anchor="middle" fill="#333333" font-size="11">borrow 75%</text>
+    <text x="526" y="222" text-anchor="middle" fill="#2D5016" font-size="13" font-weight="bold">+ $225,000 out</text>
+  </g>
+
+  <!-- Card 5: Repeat -->
+  <g>
+    <rect x="608" y="78" width="128" height="162" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+    <circle cx="672" cy="110" r="19" fill="#2D5016"/>
+    <text x="672" y="117" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="bold">R</text>
+    <text x="672" y="152" text-anchor="middle" fill="#2D5016" font-size="13" font-weight="bold">Repeat</text>
+    <text x="672" y="176" text-anchor="middle" fill="#333333" font-size="11">Roll the cash</text>
+    <text x="672" y="191" text-anchor="middle" fill="#333333" font-size="11">into the next deal</text>
+    <text x="672" y="222" text-anchor="middle" fill="#999999" font-size="13" font-weight="bold">~$20k left in</text>
+  </g>
+
+  <!-- Chevrons between cards -->
+  <polygon points="156,146 166,151 156,156" fill="#2D5016"/>
+  <polygon points="302,146 312,151 302,156" fill="#2D5016"/>
+  <polygon points="448,146 458,151 448,156" fill="#2D5016"/>
+  <polygon points="594,146 604,151 594,156" fill="#2D5016"/>
+
+  <!-- Recycle loop arrow -->
+  <path d="M 672 240 L 672 312 Q 672 330 654 330 L 106 330 Q 88 330 88 312 L 88 256"
+        fill="none" stroke="#2D5016" stroke-width="2.5"/>
+  <polygon points="80,264 88,250 96,264" fill="#2D5016"/>
+
+  <!-- Loop label -->
+  <text x="380" y="360" text-anchor="middle" fill="#2D5016" font-size="12" font-weight="bold">Recycle the same $225,000 into the next deal. Only about $20,000 stays behind.</text>
+</svg>
