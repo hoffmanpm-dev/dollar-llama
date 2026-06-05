@@ -1,0 +1,67 @@
+<svg viewBox="0 0 760 360" xmlns="http://www.w3.org/2000/svg" style="font-family:Arial,Helvetica,sans-serif;background:#FAF8F3">
+  <rect x="0" y="0" width="760" height="360" fill="#FAF8F3"/>
+  <text x="380" y="42" text-anchor="middle" fill="#2D5016" font-size="14" font-weight="bold" letter-spacing="2.5">WHAT YOU'RE ACTUALLY PAYING FOR</text>
+  <text x="380" y="66" text-anchor="middle" fill="#999999" font-size="12">Six reasons to hire an advisor. The last one is the one the industry oversells.</text>
+
+  <rect x="20" y="92" width="110" height="234" rx="8" fill="#FFFFFF" stroke="#E0DDD5"/>
+  <rect x="20" y="92" width="110" height="32" rx="8" fill="#2D5016"/>
+  <rect x="20" y="116" width="110" height="8" fill="#2D5016"/>
+  <text x="75" y="113" text-anchor="middle" fill="#FFFFFF" font-size="10" font-weight="bold">RETURNS</text>
+  <text x="75" y="170" text-anchor="middle" fill="#2D5016" font-size="24" font-weight="bold">~3%</text>
+  <text x="75" y="204" text-anchor="middle" fill="#333333" font-size="12">Net value a</text>
+  <text x="75" y="220" text-anchor="middle" fill="#333333" font-size="12">good advisor</text>
+  <text x="75" y="236" text-anchor="middle" fill="#333333" font-size="12">adds, per</text>
+  <text x="75" y="252" text-anchor="middle" fill="#333333" font-size="12">Advisor's Alpha.</text>
+
+  <rect x="142" y="92" width="110" height="234" rx="8" fill="#FFFFFF" stroke="#E0DDD5"/>
+  <rect x="142" y="92" width="110" height="32" rx="8" fill="#2D5016"/>
+  <rect x="142" y="116" width="110" height="8" fill="#2D5016"/>
+  <text x="197" y="113" text-anchor="middle" fill="#FFFFFF" font-size="10" font-weight="bold">THOUGHT PARTNER</text>
+  <text x="197" y="168" text-anchor="middle" fill="#2D5016" font-size="14" font-weight="bold">Clarity</text>
+  <text x="197" y="204" text-anchor="middle" fill="#333333" font-size="12">Advice from</text>
+  <text x="197" y="220" text-anchor="middle" fill="#333333" font-size="12">someone who</text>
+  <text x="197" y="236" text-anchor="middle" fill="#333333" font-size="12">sees your whole</text>
+  <text x="197" y="252" text-anchor="middle" fill="#333333" font-size="12">situation.</text>
+
+  <rect x="264" y="92" width="110" height="234" rx="8" fill="#FFFFFF" stroke="#E0DDD5"/>
+  <rect x="264" y="92" width="110" height="32" rx="8" fill="#2D5016"/>
+  <rect x="264" y="116" width="110" height="8" fill="#2D5016"/>
+  <text x="319" y="113" text-anchor="middle" fill="#FFFFFF" font-size="10" font-weight="bold">BEHAVIOR COACH</text>
+  <text x="319" y="168" text-anchor="middle" fill="#2D5016" font-size="14" font-weight="bold">Discipline</text>
+  <text x="319" y="204" text-anchor="middle" fill="#333333" font-size="12">Stands between</text>
+  <text x="319" y="220" text-anchor="middle" fill="#333333" font-size="12">you and your</text>
+  <text x="319" y="236" text-anchor="middle" fill="#333333" font-size="12">worst impulse</text>
+  <text x="319" y="252" text-anchor="middle" fill="#333333" font-size="12">when it counts.</text>
+
+  <rect x="386" y="92" width="110" height="234" rx="8" fill="#FFFFFF" stroke="#E0DDD5"/>
+  <rect x="386" y="92" width="110" height="32" rx="8" fill="#2D5016"/>
+  <rect x="386" y="116" width="110" height="8" fill="#2D5016"/>
+  <text x="441" y="113" text-anchor="middle" fill="#FFFFFF" font-size="10" font-weight="bold">EXPERIENCE</text>
+  <text x="441" y="168" text-anchor="middle" fill="#2D5016" font-size="14" font-weight="bold">n = many</text>
+  <text x="441" y="204" text-anchor="middle" fill="#333333" font-size="12">Their reps vs.</text>
+  <text x="441" y="220" text-anchor="middle" fill="#333333" font-size="12">your n = 1. One</text>
+  <text x="441" y="236" text-anchor="middle" fill="#333333" font-size="12">shot at each</text>
+  <text x="441" y="252" text-anchor="middle" fill="#333333" font-size="12">big decision.</text>
+
+  <rect x="508" y="92" width="110" height="234" rx="8" fill="#FFFFFF" stroke="#E0DDD5"/>
+  <rect x="508" y="92" width="110" height="32" rx="8" fill="#2D5016"/>
+  <rect x="508" y="116" width="110" height="8" fill="#2D5016"/>
+  <text x="563" y="113" text-anchor="middle" fill="#FFFFFF" font-size="10" font-weight="bold">SUCCESSION</text>
+  <text x="563" y="168" text-anchor="middle" fill="#2D5016" font-size="14" font-weight="bold">Continuity</text>
+  <text x="563" y="204" text-anchor="middle" fill="#333333" font-size="12">Keeps the plan</text>
+  <text x="563" y="220" text-anchor="middle" fill="#333333" font-size="12">running for your</text>
+  <text x="563" y="236" text-anchor="middle" fill="#333333" font-size="12">family if you</text>
+  <text x="563" y="252" text-anchor="middle" fill="#333333" font-size="12">no longer can.</text>
+
+  <rect x="630" y="92" width="110" height="234" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-dasharray="4 3"/>
+  <rect x="630" y="92" width="110" height="32" rx="8" fill="#999999"/>
+  <rect x="630" y="116" width="110" height="8" fill="#999999"/>
+  <text x="685" y="113" text-anchor="middle" fill="#FFFFFF" font-size="10" font-weight="bold">ACCESS</text>
+  <text x="685" y="168" text-anchor="middle" fill="#999999" font-size="14" font-weight="bold">Rarely</text>
+  <text x="685" y="204" text-anchor="middle" fill="#999999" font-size="12">Skip it until</text>
+  <text x="685" y="220" text-anchor="middle" fill="#999999" font-size="12">you're well over</text>
+  <text x="685" y="236" text-anchor="middle" fill="#999999" font-size="12">$5M. High fees,</text>
+  <text x="685" y="252" text-anchor="middle" fill="#999999" font-size="12">low clarity.</text>
+
+  <text x="380" y="348" text-anchor="middle" fill="#2D5016" font-size="12" font-style="italic">The plan and the discipline are the product. A better return is not.</text>
+</svg>
