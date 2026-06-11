@@ -1,0 +1,61 @@
+<svg viewBox="0 0 760 336" xmlns="http://www.w3.org/2000/svg" style="font-family: Arial, Helvetica, sans-serif; background: #FAF8F3;">
+  <rect x="0" y="0" width="760" height="336" fill="#FAF8F3"/>
+
+  <text x="380" y="28" text-anchor="middle" font-size="13" font-weight="bold" fill="#2D5016" letter-spacing="2.5" style="text-transform: uppercase;">FOUR ITEMS ON THE LIST. EIGHT IN THE CART.</text>
+
+  <!-- Left card: THE LIST -->
+  <rect x="40" y="48" width="330" height="246" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <path d="M 40 56 Q 40 48 48 48 L 362 48 Q 370 48 370 56 L 370 82 L 40 82 Z" fill="#2D5016"/>
+  <text x="205" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#FFFFFF" letter-spacing="1">THE LIST</text>
+
+  <text x="64" y="115" font-size="14" font-weight="bold" fill="#2D5016">&#10003;</text>
+  <text x="86" y="115" font-size="13" fill="#333333">Salmon</text>
+  <line x1="60" y1="128" x2="350" y2="128" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="64" y="150" font-size="14" font-weight="bold" fill="#2D5016">&#10003;</text>
+  <text x="86" y="150" font-size="13" fill="#333333">Broccoli</text>
+  <line x1="60" y1="163" x2="350" y2="163" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="64" y="185" font-size="14" font-weight="bold" fill="#2D5016">&#10003;</text>
+  <text x="86" y="185" font-size="13" fill="#333333">Rice</text>
+  <line x1="60" y1="198" x2="350" y2="198" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="64" y="220" font-size="14" font-weight="bold" fill="#2D5016">&#10003;</text>
+  <text x="86" y="220" font-size="13" fill="#333333">Salad</text>
+
+  <line x1="60" y1="248" x2="350" y2="248" stroke="#E0DDD5" stroke-width="1"/>
+  <text x="205" y="272" text-anchor="middle" font-size="12" fill="#999999">4 items. One healthy dinner.</text>
+
+  <!-- Right card: THE CART -->
+  <rect x="390" y="48" width="330" height="246" rx="8" fill="#FFFFFF" stroke="#E0DDD5" stroke-width="1"/>
+  <path d="M 390 56 Q 390 48 398 48 L 712 48 Q 720 48 720 56 L 720 82 L 390 82 Z" fill="#2D5016"/>
+  <text x="555" y="70" text-anchor="middle" font-size="14" font-weight="bold" fill="#FFFFFF" letter-spacing="1">THE CART</text>
+
+  <text x="414" y="104" font-size="12" font-weight="bold" fill="#2D5016">&#10003;</text>
+  <text x="434" y="104" font-size="12" fill="#333333">Salmon</text>
+
+  <text x="414" y="126" font-size="12" font-weight="bold" fill="#2D5016">&#10003;</text>
+  <text x="434" y="126" font-size="12" fill="#333333">Broccoli</text>
+
+  <text x="414" y="148" font-size="12" font-weight="bold" fill="#2D5016">&#10003;</text>
+  <text x="434" y="148" font-size="12" fill="#333333">Rice</text>
+
+  <text x="414" y="170" font-size="12" font-weight="bold" fill="#2D5016">&#10003;</text>
+  <text x="434" y="170" font-size="12" fill="#333333">Salad</text>
+
+  <line x1="410" y1="181" x2="700" y2="181" stroke="#E0DDD5" stroke-width="1"/>
+
+  <text x="434" y="202" font-size="12" fill="#333333">Bottle of wine</text>
+  <text x="700" y="202" text-anchor="end" font-size="9" font-weight="bold" fill="#999999" letter-spacing="1">IMPULSE</text>
+
+  <text x="434" y="224" font-size="12" fill="#333333">Ice cream</text>
+  <text x="700" y="224" text-anchor="end" font-size="9" font-weight="bold" fill="#999999" letter-spacing="1">IMPULSE</text>
+
+  <text x="434" y="246" font-size="12" fill="#333333">Tortilla chips</text>
+  <text x="700" y="246" text-anchor="end" font-size="9" font-weight="bold" fill="#999999" letter-spacing="1">IMPULSE</text>
+
+  <text x="434" y="268" font-size="12" fill="#333333">Salsa</text>
+  <text x="700" y="268" text-anchor="end" font-size="9" font-weight="bold" fill="#999999" letter-spacing="1">IMPULSE</text>
+
+  <text x="380" y="320" text-anchor="middle" font-size="11" fill="#999999">Half the cart was never on the list. That is the store working as designed.</text>
+</svg>
