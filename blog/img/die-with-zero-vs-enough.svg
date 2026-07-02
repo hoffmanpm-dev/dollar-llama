@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" style="font-family:Arial,Helvetica,sans-serif;background:#FAF8F3">
+  <!-- Title -->
+  <text x="380" y="30" text-anchor="middle" style="font-size:13px;font-weight:bold;fill:#2D5016;letter-spacing:2.5px;text-transform:uppercase">Two Ways to Draw Down a Lifetime of Savings</text>
+
+  <!-- Plot frame -->
+  <line x1="90" y1="70" x2="90" y2="300" stroke="#E0DDD5" stroke-width="1"/>
+  <line x1="90" y1="300" x2="710" y2="300" stroke="#E0DDD5" stroke-width="1"/>
+
+  <!-- Y axis label -->
+  <text x="90" y="58" text-anchor="middle" style="font-size:10px;fill:#999999;letter-spacing:1px;text-transform:uppercase">Wealth</text>
+  <!-- X axis label -->
+  <text x="738" y="304" text-anchor="end" style="font-size:10px;fill:#999999;letter-spacing:1px;text-transform:uppercase">Age</text>
+
+  <!-- Age ticks -->
+  <text x="177" y="316" text-anchor="middle" style="font-size:11px;fill:#999999">35</text>
+  <text x="351" y="316" text-anchor="middle" style="font-size:11px;fill:#999999">55</text>
+  <text x="438" y="316" text-anchor="middle" style="font-size:11px;fill:#999999">65</text>
+  <text x="525" y="316" text-anchor="middle" style="font-size:11px;fill:#999999">75</text>
+  <text x="612" y="316" text-anchor="middle" style="font-size:11px;fill:#999999">85</text>
+  <text x="699" y="316" text-anchor="middle" style="font-size:11px;fill:#999999">95</text>
+
+  <!-- Retirement marker -->
+  <line x1="438" y1="70" x2="438" y2="300" stroke="#E0DDD5" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="438" y="64" text-anchor="middle" style="font-size:10px;fill:#999999;letter-spacing:1px;text-transform:uppercase">Retire</text>
+
+  <!-- Danger zone: out of money, still living (age ~84 to 95) -->
+  <rect x="605" y="70" width="105" height="230" fill="#A6432E" opacity="0.08"/>
+  <text x="657" y="150" text-anchor="middle" style="font-size:10px;fill:#A6432E;font-weight:bold">Out of money,</text>
+  <text x="657" y="164" text-anchor="middle" style="font-size:10px;fill:#A6432E;font-weight:bold">still living</text>
+
+  <!-- Shared accumulation curve, age 25-65 -->
+  <path d="M 90 275 C 180 258, 300 200, 438 78" fill="none" stroke="#2D5016" stroke-width="2.5"/>
+
+  <!-- Die with Enough: level onto a floor -->
+  <path d="M 438 78 C 500 120, 560 195, 699 232" fill="none" stroke="#2D5016" stroke-width="2.5"/>
+  <!-- Safety floor line -->
+  <line x1="620" y1="232" x2="710" y2="232" stroke="#2D5016" stroke-width="1" stroke-dasharray="4,3" opacity="0.5"/>
+
+  <!-- Die with Zero: crash to zero around 84 -->
+  <path d="M 438 78 C 500 140, 550 245, 597 300" fill="none" stroke="#A6432E" stroke-width="2.5"/>
+  <line x1="597" y1="300" x2="699" y2="300" stroke="#A6432E" stroke-width="2.5"/>
+
+  <!-- Endpoint dots -->
+  <circle cx="699" cy="232" r="4" fill="#2D5016"/>
+  <circle cx="597" cy="300" r="4" fill="#A6432E"/>
+
+  <!-- Inline curve label -->
+  <text x="693" y="222" text-anchor="end" style="font-size:12px;fill:#2D5016;font-weight:bold">Enough</text>
+
+  <!-- Legend -->
+  <g transform="translate(120,344)">
+    <line x1="0" y1="0" x2="26" y2="0" stroke="#2D5016" stroke-width="2.5"/>
+    <text x="34" y="4" style="font-size:12px;fill:#333333">Die with enough: spend well, keep a cushion for the unexpected</text>
+  </g>
+  <g transform="translate(120,366)">
+    <line x1="0" y1="0" x2="26" y2="0" stroke="#A6432E" stroke-width="2.5"/>
+    <text x="34" y="4" style="font-size:12px;fill:#333333">Die with zero: spend to nothing, then hope the timing was right</text>
+  </g>
+</svg>
