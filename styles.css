@@ -296,6 +296,33 @@ a:hover { color: var(--green-light); }
   margin: 8px 0 0;
 }
 
+/* ---- LISTEN LINKS (podcast episode) ---- */
+.post-listen {
+  font-family: var(--font-heading);
+  font-size: 15px;
+  text-align: center;
+  color: var(--charcoal);
+  margin: -16px 0 32px;
+}
+
+.post-listen a { font-weight: 700; }
+
+.post-listen span {
+  display: block;
+  font-family: var(--font-body, inherit);
+  font-size: 13px;
+  font-style: italic;
+  color: var(--gray);
+  margin-top: 2px;
+}
+
+.post-header + .post-listen { margin-top: 0; }
+
+.footer-media {
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+
 /* ---- BLOG LISTING ---- */
 .blog-list { list-style: none; }
 
