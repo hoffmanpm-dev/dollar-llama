@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" style="font-family:Arial, Helvetica, sans-serif;background:#FAF8F3">
+<rect width="760" height="350" fill="#FAF8F3"/>
+<text x="380.0" y="32" text-anchor="middle" font-size="13" font-weight="bold" fill="#2D5016" letter-spacing="2.5">THREE WAYS TO HANDLE YOUR MONEY</text>
+<text x="22" y="121.0" font-size="10" fill="#999999" letter-spacing="1">N=1 PROBLEM</text>
+<text x="22" y="171.0" font-size="10" fill="#999999" letter-spacing="1">IF YOU&#39;RE GONE</text>
+<text x="22" y="221.0" font-size="10" fill="#999999" letter-spacing="1">CONFLICT RISK</text>
+<text x="22" y="271.0" font-size="10" fill="#999999" letter-spacing="1">COST</text>
+<text x="22" y="321.0" font-size="10" fill="#999999" letter-spacing="1">FIT</text>
+<rect x="160" y="56" width="190" height="286" rx="8" fill="#FFFFFF" stroke="#E0DDD5"/>
+<path d="M160 92 V64 Q160 56 168 56 H342 Q350 56 350 64 V92 Z" fill="#2D5016"/>
+<text x="255.0" y="79" text-anchor="middle" font-size="14" font-weight="bold" fill="#FFFFFF">Do-It-Yourselfer</text>
+<text x="255.0" y="121.0" text-anchor="middle" font-size="13" fill="#333333">Exposed</text>
+<line x1="172" y1="142" x2="338" y2="142" stroke="#E0DDD5"/>
+<text x="255.0" y="171.0" text-anchor="middle" font-size="13" fill="#333333">Exposed, unless backed up</text>
+<line x1="172" y1="192" x2="338" y2="192" stroke="#E0DDD5"/>
+<text x="255.0" y="221.0" text-anchor="middle" font-size="13" fill="#333333">None</text>
+<line x1="172" y1="242" x2="338" y2="242" stroke="#E0DDD5"/>
+<text x="255.0" y="271.0" text-anchor="middle" font-size="13" fill="#333333">Your time</text>
+<line x1="172" y1="292" x2="338" y2="292" stroke="#E0DDD5"/>
+<text x="255.0" y="321.0" text-anchor="middle" font-size="13" fill="#333333">Yours to get right</text>
+<rect x="360" y="56" width="190" height="286" rx="8" fill="#FFFFFF" stroke="#E0DDD5"/>
+<path d="M360 92 V64 Q360 56 368 56 H542 Q550 56 550 64 V92 Z" fill="#2D5016"/>
+<text x="455.0" y="79" text-anchor="middle" font-size="14" font-weight="bold" fill="#FFFFFF">Collaborator</text>
+<text x="455.0" y="121.0" text-anchor="middle" font-size="13" fill="#333333">Solved</text>
+<line x1="372" y1="142" x2="538" y2="142" stroke="#E0DDD5"/>
+<text x="455.0" y="171.0" text-anchor="middle" font-size="13" fill="#333333">Solved</text>
+<line x1="372" y1="192" x2="538" y2="192" stroke="#E0DDD5"/>
+<text x="455.0" y="221.0" text-anchor="middle" font-size="13" fill="#333333">Present, easiest to spot</text>
+<line x1="372" y1="242" x2="538" y2="242" stroke="#E0DDD5"/>
+<text x="455.0" y="271.0" text-anchor="middle" font-size="13" fill="#333333">Advisor fee</text>
+<line x1="372" y1="292" x2="538" y2="292" stroke="#E0DDD5"/>
+<text x="455.0" y="321.0" text-anchor="middle" font-size="13" fill="#333333">Closest</text>
+<rect x="560" y="56" width="190" height="286" rx="8" fill="#FFFFFF" stroke="#E0DDD5"/>
+<path d="M560 92 V64 Q560 56 568 56 H742 Q750 56 750 64 V92 Z" fill="#2D5016"/>
+<text x="655.0" y="79" text-anchor="middle" font-size="14" font-weight="bold" fill="#FFFFFF">Outsourcer</text>
+<text x="655.0" y="121.0" text-anchor="middle" font-size="13" fill="#333333">Solved</text>
+<line x1="572" y1="142" x2="738" y2="142" stroke="#E0DDD5"/>
+<text x="655.0" y="171.0" text-anchor="middle" font-size="13" fill="#333333">Solved</text>
+<line x1="572" y1="192" x2="738" y2="192" stroke="#E0DDD5"/>
+<text x="655.0" y="221.0" text-anchor="middle" font-size="13" fill="#333333">Highest</text>
+<line x1="572" y1="242" x2="738" y2="242" stroke="#E0DDD5"/>
+<text x="655.0" y="271.0" text-anchor="middle" font-size="13" fill="#333333">About the same fee</text>
+<line x1="572" y1="292" x2="738" y2="292" stroke="#E0DDD5"/>
+<text x="655.0" y="321.0" text-anchor="middle" font-size="13" fill="#333333">Depends on the advisor</text>
+</svg>
